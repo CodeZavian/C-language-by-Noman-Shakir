@@ -29,7 +29,7 @@ int main()
        float price,bill,payment;
        char order_confirmation; 
       
-       printf("Heya ! babes love yaa muuuaaahh\n\n");
+       
        
        
       printf("--- Welcome to our Restaurent ---\n\n"); 
@@ -105,4 +105,3 @@ int main()
      return 0;  
 
 }
-
